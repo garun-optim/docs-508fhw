@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ai1ltb.nominimumdepositcasino.co.nz/sitemap.xml
